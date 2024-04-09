@@ -4,7 +4,7 @@
 
 2. Fent servir <kbd>Get from VCS</kbd>
 
- ![ide-open-project.png](img/ide-open-project.png)
+ ![ide-open-project2.png](img/ide-open-project2.png)
 
 3. I obre el projecte des de la ruta del repostori 
    **`https://github.com/jpardo20/arrays_java.git`**
