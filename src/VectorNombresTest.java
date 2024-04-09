@@ -1,4 +1,4 @@
-package arrays_java;
+package arrays_java.src;
 
 public class VectorNombresTest {
     // Definició de variables globals

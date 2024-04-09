@@ -1,4 +1,4 @@
-package arrays_java;
+package arrays_java.src;
 import java.util.Random; 
 
 public class ArrayDoubles extends VectorNombres{
