@@ -1,5 +1,3 @@
-
-package arrays_java.src;
 import java.util.Random; 
 
 public class VectorDouble extends VectorNombres{
