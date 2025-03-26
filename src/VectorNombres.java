@@ -1,5 +1,3 @@
-package arrays_java.src;
-
 public abstract class VectorNombres {
     // Atributs
     protected int mida;
