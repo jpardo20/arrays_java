@@ -1,5 +1,3 @@
-package arrays_java.src;
-
 public class VectorNombresTest {
     // Definició de variables globals
 
